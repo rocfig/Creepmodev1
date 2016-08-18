@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Creepmodev1</string>
+    <string name="hello_world">Creepmode v1.0 ©Shawn Shteinbah</string>
+    <string name="creepenable">Tap to Enable Creepmode</string>
+    <string name="creepdisable">Tap to Disable Creepmode</string>
+
+</resources>
