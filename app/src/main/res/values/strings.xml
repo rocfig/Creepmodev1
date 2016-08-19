@@ -3,5 +3,6 @@
     <string name="hello_world">Creepmode v1.0 ©Shawn Shteinbah</string>
     <string name="creepenable">Tap to Enable Creepmode</string>
     <string name="creepdisable">Tap to Disable Creepmode</string>
+    <string name="service_description">Service for blocking unwanted likes and following</string>
 
 </resources>
