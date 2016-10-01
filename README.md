@@ -1,6 +1,6 @@
 /*Shawn Shteinbah
 
-This software is under Apache Liscence., feel free to add contributions. 
+This software is under Apache License., feel free to make contributions. 
 
 
 
