@@ -4,17 +4,6 @@ This software is under Apache Liscence., feel free to add contributions.
 
 
 
-/////////\\\\\\\\\\
-////////..\\\\\\\\\
-//////......\\\\\\\
-////.   .   .\\\\\\
-/////........\\\\\\
-//////.....\\\\\\\\
-/////////\\\\\\\\\\
-//////v0.001\\\\\\\
-/////////\\\\\\\\\\
-
-
 
 Shaky Fingers? This app helps users calmly stalk people on social media on their devices. Well not stalk, that's just creepy. 
 
