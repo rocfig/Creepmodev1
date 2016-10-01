@@ -1,5 +1,27 @@
-Enables user to safely (peacefully, lol) stalk people on social media through utilizing a transparent screen overlay positional 'check-for-screen-press' functionality which basically acts as a safety net in the event of an accidental liking/picture fav on instagram so users can stalk other people with the peace of mind in knowing that they won't accidentally like that person's pictures or follow that person thus saving them from potential embarrasement later on.
+/*Shawn Shteinbah
 
-Accidental Follow prevention will check for phone dimensions, and the x,y coordinate position of the follow element on the users' specific phone. Using this information, if a user is to accidentally press the screen in this location the screen will show a warning along the lines of "Please disable Creepmode to follow others"
+This software is under Apache Liscence., feel free to add contributions. 
 
-Accidental like prevention will utilize a similar algorithm as 'accidental follow' but will check for time between presses on screen. Instagram pictures are liked when the screen is pressed twice within fractions of a second, using a counter the app will track the time between a first press on a picture element occurs, and if the user accidentally touches that same element on the screen again within the time frame that would register a true value for liking the picture a warning will be displayed on the screen "Please disable Creepmode to like pictures"
+
+
+/////////\\\\\\\\\\
+////////..\\\\\\\\\
+//////......\\\\\\\
+////.   .   .\\\\\\
+/////........\\\\\\
+//////.....\\\\\\\\
+/////////\\\\\\\\\\
+//////v0.001\\\\\\\
+/////////\\\\\\\\\\
+
+
+
+Shaky Fingers? This app helps users calmly stalk people on social media on their devices. Well not stalk, that's just creepy. 
+
+
+............................................................................................................................
+Utilizing Android's Accessibility services,this app acts as a safety net in the event of unwanted, rather unintentional behaviour on social media. Ensuring users more stealth during their interaction with other people with the peace of mind in knowing that they won't accidentally interact with that person thus saving them from potential embarrasement later on.
+............................................................................................................................
+*/
+
+
